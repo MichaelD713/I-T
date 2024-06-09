@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Средства индивидуальной защиты оператора</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <h2>Средствами индивидуальной защиты оператора являются:</h2>
+  <ul>
+    <li><a href="https://example.com/protective-gown" style="color: purple; text-decoration: underline;">белый х/б халат темного цвета</a> с антистатической пропиткой;</li>
+    <li><a href="https://example.com/protective-filter">экранный защитный фильтр</a> класса "полная защита"</a>;</li>
+    <li><a href="https://example.com/spectral-glasses">специальные спектральные очки</a>.</li>
+  </ul>
+</body>
+</html>
